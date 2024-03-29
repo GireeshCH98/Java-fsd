@@ -1,4 +1,4 @@
-//Writing a program in Java to create, read, update, and delete operations on the files in Java.
+//Writing a program in Java to create, read, update, and delete operations on the files in Java
 package phase1.PracticeProject17;
 
 import java.io.File;
