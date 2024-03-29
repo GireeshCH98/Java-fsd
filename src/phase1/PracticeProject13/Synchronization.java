@@ -1,9 +1,6 @@
 //Write a program in Java to demonstrate synchronization
 package phase1.PracticeProject13;
 
-import com.learning.core.Phase1PracticeProject.MessageSender;
-import com.learning.core.Phase1PracticeProject.ThreadMessageSender;
-
 class MessageSender
 {
 	public void sendmessage(String message)
